@@ -22,6 +22,7 @@ export default function Home({allPostsData}) {
       </Head>
       <section className={utilStyles.headingMd}>
         <p>I'm Ruari, an aeronautical engineeering graduate with a passion for software development.</p>
+        <p>The purpose of this blog is to document my academic achievements and career progression whilst improving my web development skills.</p>
       </section>
       <section className={`${utilStyles.headingMd} ${utilStyles.padding1px}`}>
         <h2 className={utilStyles.headingLg}>Blog</h2>
